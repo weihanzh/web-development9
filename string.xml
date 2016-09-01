@@ -1,0 +1,78 @@
+<resources>
+    <string name="aeris_client_id">HnzatetbC1qPX5aXfUAW4</string>
+    <string name="aeris_client_secret">WT57IykTY13qN8uIBATmin7xhCgu5XrWsH8VjD26</string>
+    <string name="app_name">Forecast</string>
+    <string name="facebook_app_id">358204130970307</string>
+    <string name="street">Street</string>
+    <string name="city">City</string>
+    <string name="state">State</string>
+    <string-array name="statelab">
+        <item>Select</item>
+        <item>AL</item>
+        <item>AK</item>
+        <item>AZ</item>
+        <item>AR</item>
+        <item>CA</item>
+        <item>CO</item>
+        <item>CT</item>
+        <item>DE</item>
+        <item>DC</item>
+        <item>FL</item>
+        <item>GA</item>
+        <item>HI</item>
+        <item>ID</item>
+        <item>IL</item>
+        <item>IN</item>
+        <item>IA</item>
+        <item>KS</item>
+        <item>KY</item>
+        <item>LA</item>
+        <item>ME</item>
+        <item>MD</item>
+        <item>MA</item>
+        <item>MI</item>
+        <item>MN</item>
+        <item>MS</item>
+        <item>MO</item>
+        <item>MT</item>
+        <item>NE</item>
+        <item>NV</item>
+        <item>NH</item>
+        <item>NJ</item>
+        <item>NM</item>
+        <item>NY</item>
+        <item>NC</item>
+        <item>ND</item>
+        <item>OH</item>
+        <item>OK</item>
+        <item>OR</item>
+        <item>PA</item>
+        <item>RI</item>
+        <item>SC</item>
+        <item>SD</item>
+        <item>TN</item>
+        <item>TX</item>
+        <item>UT</item>
+        <item>VT</item>
+        <item>VA</item>
+        <item>WA</item>
+        <item>WV</item>
+        <item>WI</item>
+        <item>WY</item>
+    </string-array>
+    <string name="degree">Degree</string>
+    <string name="search">SEARCH</string>
+    <string name="clear">CLEAR</string>
+    <string name="about">About</string>
+    <string name="power">Powered By:</string>
+    <string name="title_activity_result">ResultActivity</string>
+    <string name="moredetail">MORE DETAILS</string>
+    <string name="viewmap">VIEW MAP</string>
+    <string name="title_activity_details">DetailsActivity</string>
+    <string name="title_activity_about">WeatherApp</string>
+    <string name="title_activity_map">MapActivity</string>
+    <string name="title_activity_mapsgoogle">Map</string>
+
+<!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
